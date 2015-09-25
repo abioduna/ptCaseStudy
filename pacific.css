@@ -1,6 +1,35 @@
-body { background-color: #ffffff; }
-    h1 { background-color: #000033;
-        color: #ffffff; }
-nav { background-color: #90c7e3; }
-h2 { color: #3399CC; }
-        
+body { 
+    background-color: #ffffff;
+}
+h1 {
+    text-align: center;
+    background-color: #000033;
+    color: #ffffff;
+}
+nav {
+    background-color: #90c7e3;
+}
+h2 {
+    color: #999999;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #3399CC;
+}
+h3 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #3399CC;
+}
+.companyname {
+    color: #3399CC;
+}
+ul {
+    list-style-image: url(images/marker.gif);
+}
+nav {
+    font-weight: bold;
+    text-align: center;
+}
+#wrapper {
+    width: 80%;
+    min-width: 960px;
+    box-shadow: 5px 5px 5px #000033;
+}
